@@ -1,0 +1,577 @@
+<html>
+  <head>
+    <title>My Blog</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" />
+    <link
+      rel="icon"
+      href="https://inkythuatso.com/uploads/thumbnails/800/2021/10/logo-bach-khoa-ha-noi-inkythuatso-01-22-10-44-52.jpg" whith:"50px"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+               <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"> 
+  </head>
+  <body>
+    
+      <nav>
+            <div class="nav-bg"></div>
+            <ul>
+                
+                <li>
+                    <a class="link-text" href="https://myblog-p-tai.glitch.me/?fbclid=IwAR0XjnfItdkPqqh6EnPNB_EDkjHXaaNZ8lQ-NhMcR4pFCf_8rUJdZynSR8g">About me</a>
+                </li>
+                <li class="link-text">
+                  <i class='bx bxs-photo-album bx-tada bx-rotate-180' ></i>
+                    <a class="link-text" href="https://catkin-elemental-pepperberry.glitch.me/">Memory</a>
+                </li>
+                <li class="link-text">
+                  <i class='bx bxs-videos bx-tada bx-rotate-180' ></i>
+                    <a class="link-text" href="https://mini-peridot-veil.glitch.me/">Short videos</a>
+                </li>
+            </ul>
+        </nav>
+    
+    <div class="hero"></div>
+    <div class="sidenav bg-dark" id="mySidenav">
+      <a href="#">.</a>
+    </div>
+    <div class="container content-wrapper main-mylife">
+      <h2>Wonderful memory !</h2>
+      <hr />
+      <p>Enjoying my contents</p>
+      <div class="row">
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/a36f5383-3616-4d69-94a7-e26fbc4e37a5/z4811488098847_27122b312e4c2a91de07047fadebdac3.jpg?v=1698089158358"
+              alt="Mountains"
+              style="width: 100%"
+            />
+            <h3>Football club !</h3>
+            <p>12D</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://i.pinimg.com/736x/36/98/ac/3698aca0818bc5b8cec9295cb4b97546.jpg"
+              alt="Ramen"
+              style="width: 100%"
+            />
+            <h3>Football memories</h3>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/a36f5383-3616-4d69-94a7-e26fbc4e37a5/z4450484835208_7cb7e3ec3bb6a85282447a11828493aa.jpg?v=169808914865"
+              alt="Park"
+              style="width: 100%"
+            />
+            <h3>12D team chemistry</h3>
+            <p>June 21, 2023.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/a36f5383-3616-4d69-94a7-e26fbc4e37a5/z4763245142027_cc65608484d87ab98cde61867fd1836e.jpg?v=1698089150120"
+              alt="Gyu"
+              style="width: 100%"
+            />
+            <h3>My brother !</h3>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/a36f5383-3616-4d69-94a7-e26fbc4e37a5/z4811500826881_6be5a0b9b23c3836515466e8ad874758.jpg?v=1698089164859"
+              alt="Park"
+              style="width: 100%"
+            />
+            <h3>Alone !</h3>
+            <p>October 22, 2023.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/a36f5383-3616-4d69-94a7-e26fbc4e37a5/z4811501245905_4ba2f592d4eef4490b6bfa85c76d6d7e.jpg?v=1698089167612"
+              alt="Mountains"
+              style="width: 100%"
+            />
+            <h3>Ngày tháng rực rỡ đừng sống tạm bợ !</h3>
+            <p>October 7, 2023.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/92dcf2af-a762-44a6-bdde-c65ec59e7af5/minh-chi-la-nguoi-binh-thuong-3.jpg?v=1698134970402"
+              alt="Tit"
+              style="width: 100%"
+            />
+            <h3>=))</h3>
+            <p>October 7, 2023.</p>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/92dcf2af-a762-44a6-bdde-c65ec59e7af5/354413651_1258268245076989_3143952646127647747_n.jpg?v=1698772658512"
+              alt="Tit"
+              style="width: 100%"
+            />
+            <h3>
+              Sunset
+            </h3>
+          </div>
+        </div>
+        <div class="column">
+          <div class="content">
+            <img
+              src="https://cdn.glitch.global/92dcf2af-a762-44a6-bdde-c65ec59e7af5/z4813276693481_03b7edc91ac7cf4fe179401c169e3639.jpg?v=1698136632627"
+              alt="Tit"
+              style="width: 100%"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer
+      class="py-3 bg-dark"
+      style="position: fixed; width: 100%; bottom: 0"
+    >
+      <div class="container">
+        <p class="m-0 text-center text-white">
+          Copyright &copy;NihongoBlog 2023
+        </p>
+      </div>
+    </footer>
+    <style>
+      body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbarResponsive{
+  justify-content: flex-end;  
+}
+
+.navbar .nav-item{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.navbar .nav-item a {
+  font-weight: bold;
+}
+
+
+nav {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* height: 35px; */
+}
+
+.mylife{
+  color: #111;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: .2em 2em;
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0;
+  padding: .2em .7em;
+}
+
+nav a {
+  width: 100%;
+  height: 100%;
+  color: rgb(38, 15, 15);
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-size: 1.15em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  transition: .25s ease-in-out;
+}
+
+nav a:hover {
+  color: rgb(220, 120, 0);
+}
+
+.nav-bg {
+  content: '';
+  position: absolute;
+  display: block;
+  top: -100%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: rgb(50, 50, 50);
+  transition: .45s ease-in-out;
+}
+
+.link-text-visible{
+  color:#FFF;
+}
+
+.link-text-hidden{
+  color:#3366FF;
+}
+
+.bg-hidden {
+  top: -100%;
+  opacity: 0;
+}
+
+.bg-visible {
+  top: 0;
+  opacity: 1;
+}
+
+h1 {
+  text-align: center;
+  font-family: Ubuntu;
+  letter-spacing: 1px;
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: rgb(50, 50, 50);
+  background: url("https://cdn.glitch.global/bc097b07-a96e-4003-8ee1-df3bb3aa50fc/manchester-united-4k-wallpaper-zil32nno1oxa67n6.jpg?v=1698770027843") no-repeat 50% 50% fixed;
+  background-size: 115%;
+  overflow: hidden;
+}
+
+.hero h1 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  padding: .3em;
+  font-size: 3em;
+  font-weight: lighter;
+}
+
+.container-content-aboutme {
+  width: 100%;
+  height: 3000px;
+  padding: 1em 10%;
+}
+
+.content-wrapper h1 {
+  margin: 0;
+  color: rgb(255, 255, 255);
+}
+
+.content-wrapper p {
+  font-family: "Open Sans";
+  text-indent: 1.5em;
+}
+
+.container-content .entry{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 150px;
+  display: flex;
+  flex-basis: 70%;
+  background-color: rgb(255, 255, 221);
+  margin-top: 80px;
+  margin-right: 10px;
+  border: rgb(238, 238, 238);
+  border-width: thin;
+  border-style: double;
+}
+
+/* .container-content{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+} */
+
+.container-content .entry .block-columns{
+  display: flex;
+}
+
+.block-columns .block-column{
+  margin: 10px;
+}
+
+.block-column .block-image{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: all 0.3s;
+}
+
+.block-image:hover{
+  transform: scale(1.1);
+}
+
+.container-content{
+  display: flex;
+  justify-content: space-around;
+  /* background-color: rgb(149, 231, 218); */
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column */
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  background-color: white;
+  padding: 10px;
+}
+/* Center website */
+.main-mylife {
+  /* max-width: 1000px;
+  margin: auto;
+  padding: auto; */
+  background: #f1f1f1;
+  margin-bottom: 100px;
+}
+
+.menu-link{
+  background-color: rgb(238, 238, 238);
+  flex-basis: 30%;
+  border: rgb(238, 238, 238);
+  border-width: thin;
+  border-style: double;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+  margin-bottom: 150px;
+  margin-left: 10px;
+}
+
+.navbar .collapse .btn-link{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  box-shadow: none;
+}
+
+.navbar .collapse .nav-item a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar .collapse .nav-item .btn-link:hover{
+  color: darkcyan;
+}
+
+.navbar .collapse .nav-item a:hover{
+  color: rgb(116, 142, 219);
+}
+
+.table-link tbody tr a{
+  text-decoration: none;
+  color: rgb(4, 153, 36);
+}
+
+/* .table-link tbody tr a:hover{
+  color: rgb(255, 255, 255);
+} */
+
+.table-link tbody tr th{
+  transition: all 0.2s;
+}
+
+.entry .table-test tbody tr a{
+  text-decoration: none;
+}
+
+.entry .table-test tbody tr th:hover{
+  background: rgb(2,0,36);
+  background: linear-gradient(164deg, rgba(2,0,36,1) 0%, rgba(205,204,204,1) 0%, rgba(205,204,204,1) 100%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%); 
+}
+
+.table-link tbody tr th:hover{
+  background: rgb(2,0,36);
+  background: linear-gradient(164deg, rgba(2,0,36,1) 0%, rgba(205,204,204,1) 0%, rgba(205,204,204,1) 100%, rgba(255,255,255,1) 100%, rgba(0,212,255,1) 100%); 
+  cursor: pointer;
+}
+
+.overlay{
+  position: fixed;
+	width: 100%;
+	height: 100%;
+  background: rgba(0,0,0,0.5);
+  visibility: visible;
+}
+
+.spanner{
+  position:absolute;
+  top: 50%;
+  left: 0;
+  background: #2a2a2a55;
+  width: 100%;
+  display:block;
+  text-align:center;
+  height: 300px;
+  color: #FFF;
+  transform: translateY(-50%);
+  z-index: 1000;
+  visibility: visible;
+}
+
+.hide-spinner{
+  visibility: hidden;
+}
+
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.rectangle-back{
+  background-color: #FFF;
+}
+
+
+
+/* Responsive */
+@media screen and (max-width: 600px) {
+  .block-columns {   
+    flex-direction: column;
+    align-items: center;
+  }
+  .column {
+    width: 100%;
+  }
+
+}
+@media screen and (max-width: 1000px) {
+  .menu-link{
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-left: 0px;
+  }
+  .container-content .entry{
+    flex-basis: 100%;
+    margin-bottom: 10px;
+  }
+  .container-content{
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgb(149, 231, 218); */
+  }
+  .column {
+    width: 50%;
+  }
+}
+    </style>
+    <script>
+      function hideSpinner() {
+    $("div.spanner").addClass("hide-spinner");
+    $("div.overlay").addClass("hide-spinner");
+  };
+  
+  $( document ).ready(function() {
+    //   setTimeout(function(){ hideSpinner() }, 500);
+      $(".menu-nav").click(function(){
+          if($("#mySidenav").width()> 0){
+              $("#mySidenav").width(0);
+          }else{
+            $("#mySidenav").width(250);
+          }
+      });
+
+      $(window).on('scroll', function() {
+        if($(window).scrollTop() < 1000) {
+          $('.hero').css('background-size', 115 + parseInt($(window).scrollTop() / 5) + '%');
+          $('.hero h1').css('top', 50 + ($(window).scrollTop() * .1) + '%');
+          $('.hero h1').css('opacity', 1 - ($(window).scrollTop() * .003));
+          // $('.content-about h1').css('margin-top', 0 + ($(window).scrollTop()  * .1) + '%');
+          // $('.content-about h1').css('margin-top', ($(window).scrollTop()   + 'px'));
+          $('.content-about h1').css('opacity', 1 - ($(window).scrollTop() * .0015));
+          
+        }
+         
+         if($(window).scrollTop() >= $('.content-wrapper').offset().top - 300) {
+           $('.nav-bg').removeClass('bg-hidden');
+           $('.nav-bg').addClass('bg-visible');
+           $('.link-text').removeClass('link-text-hidden');
+           $('.link-text').addClass('link-text-visible');
+           $('.content-about h1').css('color', 'rgb(0, 0, 0)');
+        
+         } else {
+           $('.nav-bg').removeClass('bg-visible');
+           $('.nav-bg').addClass('bg-hidden');
+           $('.link-text').removeClass('link-text-visible');
+           $('.link-text').addClass('link-text-hidden');
+           $('.content-about h1').css('color', 'rgb(255, 255, 255)');
+         }
+      });
+  });
+  
+
+    </script>
+  </body>
+</html>
