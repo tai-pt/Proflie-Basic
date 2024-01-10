@@ -1,0 +1,292 @@
+<html>
+    <head>
+        <title> My Blog</title>
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"/>
+        <link rel="icon" href="https://cdn.glitch.global/bc097b07-a96e-4003-8ee1-df3bb3aa50fc/Logo-NEU.png?v=1699291029118" type="image/gif" sizes="16x16"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"> 
+    </head>
+    <body>
+        <nav>
+            <nav>
+            <div class="nav-bg"></div>
+            <ul>
+                
+                <li>
+                    <a class="link-text" href="https://myblog-p-tai.glitch.me/?fbclid=IwAR0XjnfItdkPqqh6EnPNB_EDkjHXaaNZ8lQ-NhMcR4pFCf_8rUJdZynSR8g">About me</a>
+                </li>
+                <li class="link-text">
+                  <i class='bx bxs-photo-album bx-tada bx-rotate-180' ></i>
+                    <a class="link-text" href="https://catkin-elemental-pepperberry.glitch.me/">Memory</a>
+                </li>
+                <li class="link-text">
+                  <i class='bx bxs-videos bx-tada bx-rotate-180' ></i>
+                    <a class="link-text" href="https://mini-peridot-veil.glitch.me/">Short videos</a>
+                </li>
+            </ul>
+        </nav>
+        </nav>
+        <div class="hero"></div>
+        <div class="sidenav bg-dark" id="mySidenav">
+         
+           
+        </div>
+        <div class="container content-wrapper main-mylife">
+            <h2>Beautiful Moment</h2>
+            <hr/>    
+            <div class="row">
+                <div class="column">
+                    <div class="content">
+                        <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/2917207649674082611.mp4?v=1698089752588" type="video/mp4">
+  
+</video>
+                        <h3>Sunset.</h3>
+                       
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="content">
+                        <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/2801264354874314243.mp4?v=1698089749620" type="video/mp4">
+  
+</video>
+                        <h3>Cat Linh train.</h3>
+                      
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="content">
+                    <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/2240370755170611088.mp4?v=1698089749467" type="video/mp4">
+  
+</video>
+                        <h3>Tay Ho ngày gió.</h3>
+                    </div>
+                </div>
+                
+            <div class="column">
+                    <div class="content">
+                    <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/397227286_979678536462160_930685454583499148_n.mp4?v=1698658802550" type="video/mp4">
+  
+</video>
+                        <h3>Ta Xua.</h3>
+                    </div>
+                </div>
+                  <div class="column">
+                    <div class="content">
+                    <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/4095676556228863860.mp4?v=1698658898024" type="video/mp4">
+  
+</video>   
+                        <h3>Beach.</h3>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="content">
+                    <video width="390" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/8797267479083279965.mp4?v=1698089760894" type="video/mp4">
+  
+</video>
+                        <h3>Memory.</h3>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="content">
+                    <video width="390" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/5352119541241462657.mp4?v=1698089754298" type="video/mp4">
+  
+</video>
+                        <h3> More Perfect !</h3>
+                    </div>
+                </div>
+                <div class="column">
+                    <div class="content">
+                       <video width="400" height="300" controls>
+  <source src="https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/1233911589691482890.mp4?v=1698089734151" type="video/mp4">
+  
+</video>
+                        <h3>Alone.</h3>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="py-3 bg-dark" style="position: fixed;width: 100%;bottom: 0;">
+            <div class="container">
+                <p class="m-0 text-center text-white">Copyright &copy;NihongoBlog 2023</p>
+            </div>
+        </footer>
+        <style>
+        body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbarResponsive{
+  justify-content: flex-end;  
+}
+
+.navbar .nav-item{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.navbar .nav-item a {
+  font-weight: bold;
+}
+
+
+nav {
+  position: fixed;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  width: 100%;
+  /* height: 35px; */
+}
+
+.mylife{
+  color: #111;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: .2em 2em;
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0;
+  padding: .2em .7em;
+}
+
+nav a {
+  width: 100%;
+  height: 100%;
+  color: rgb(38, 15, 15);
+  text-decoration: none;
+  font-family: Ubuntu;
+  font-size: 1.15em;
+  font-weight: lighter;
+  letter-spacing: 1px;
+  transition: .25s ease-in-out;
+}
+
+nav a:hover {
+  color: rgb(220, 120, 0);
+}
+
+.nav-bg {
+  content: '';
+  position: absolute;
+  display: block;
+  top: -100%;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: rgb(50, 50, 50);
+  transition: .45s ease-in-out;
+}
+
+.link-text-visible{
+  color:#FFF;
+}
+
+.link-text-hidden{
+  color:black;
+}
+
+.bg-hidden {
+  top: -100%;
+  opacity: 0;
+}
+
+.bg-visible {
+  top: 0;
+  opacity: 1;
+}
+
+h1 {
+  text-align: center;
+  font-family:';
+  letter-spacing: 1px;
+}
+
+.hero {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background: rgb(50, 50, 50);
+  background: url("https://cdn.glitch.global/a3d8b1bd-a7a3-48a3-b40f-729adca39ecd/354413651_1258268245076989_3143952646127647747_n.jpg?v=1698772484674") no-repeat 50% 50% fixed;
+  background-size: 120%;
+  overflow: hidden;
+}
+
+.hero h1 {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  padding: .3em;
+  font-size: 3em;
+  font-weight: lighter;
+}
+        </style>
+        <script>
+        function hideSpinner() {
+    $("div.spanner").addClass("hide-spinner");
+    $("div.overlay").addClass("hide-spinner");
+  };
+  
+  $( document ).ready(function() {
+    //   setTimeout(function(){ hideSpinner() }, 500);
+      $(".menu-nav").click(function(){
+          if($("#mySidenav").width()> 0){
+              $("#mySidenav").width(0);
+          }else{
+            $("#mySidenav").width(250);
+          }
+      });
+
+      $(window).on('scroll', function() {
+        if($(window).scrollTop() < 1000) {
+          $('.hero').css('background-size', 115 + parseInt($(window).scrollTop() / 5) + '%');
+          $('.hero h1').css('top', 50 + ($(window).scrollTop() * .1) + '%');
+          $('.hero h1').css('opacity', 1 - ($(window).scrollTop() * .003));
+          // $('.content-about h1').css('margin-top', 0 + ($(window).scrollTop()  * .1) + '%');
+          // $('.content-about h1').css('margin-top', ($(window).scrollTop()   + 'px'));
+          $('.content-about h1').css('opacity', 1 - ($(window).scrollTop() * .0015));
+          
+        }
+         
+         if($(window).scrollTop() >= $('.content-wrapper').offset().top - 300) {
+           $('.nav-bg').removeClass('bg-hidden');
+           $('.nav-bg').addClass('bg-visible');
+           $('.link-text').removeClass('link-text-hidden');
+           $('.link-text').addClass('link-text-visible');
+           $('.content-about h1').css('color', 'rgb(0, 0, 0)');
+        
+         } else {
+           $('.nav-bg').removeClass('bg-visible');
+           $('.nav-bg').addClass('bg-hidden');
+           $('.link-text').removeClass('link-text-visible');
+           $('.link-text').addClass('link-text-hidden');
+           $('.content-about h1').css('color', 'rgb(255, 255, 255)');
+         }
+      });
+  });
+  
+
+        </script>
+    </body>
+</html>
